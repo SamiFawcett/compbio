@@ -1,0 +1,47 @@
+Future classes to take:
+6.047
+6.S191
+18.417
+20.482
+
+
+
+Main tasks:
+ 1. ML & Modeling
+ 2. Gene regulation
+ 3. Genetic Variation  & Diesease
+ 4. Graphs & Proteins
+ 5. Images
+ 6. Frontiers
+
+
+Problem Sets:
+ PS1. Tensorflow warmup
+ PS2. Geneomic Regulation code
+ PS3. Parametric tSNE Single Cell RNA-Seq Data
+ PS4. Protein Folding & Drug Design
+ PS5. Medical Imaging Analysis
+
+
+
+Introduction to Machine Learning:
+
+ - Bayesian Inference
+  - Want to get from P(D | H) to P(H | D)
+     * Probability of the Data given the hypothesis to Probability of the hypothesis given the data.
+  - P(H | D) = ( P(D | H) * P(H) ) / P(D)
+
+
+ - Classification vs Clustering
+  - Classification (supervised)
+    * labels
+    * feature extraction
+    * metric: classification accuracy
+  - Clustering
+    * no labels
+    * identify structure in data
+    * metric: independent validation features
+
+  - How are they related?
+   - Expectation Maximization 
+    * Iterative estimation of generative model parameters
