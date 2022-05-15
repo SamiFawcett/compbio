@@ -25,7 +25,7 @@ Problem Sets:
 
 
 Introduction to Machine Learning:
-
+What is covered:
  - Bayesian Inference
   - Want to get from P(D | H) to P(H | D)
      * Probability of the Data given the hypothesis to Probability of the hypothesis given the data.
@@ -45,3 +45,12 @@ Introduction to Machine Learning:
   - How are they related?
    - Expectation Maximization 
     * Iterative estimation of generative model parameters
+
+
+
+  - Support Vector Machines
+  - L1 & L2 Regularization (L1 -> lasso and L2 -> ridge)
+  - Not all Learning is Deep
+    *Rule based systems
+    *Classic Machine learning
+    *Representation Learning
